@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <!-- Basic Configuration -->
+    <entry>
+        <key>welcome_message</key>
+        <value>Welcome to our app!</value>
+    </entry>
+    <entry>
+        <key>feature_flag_enabled</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>api_base_url</key>
+        <value>https://api.example.com</value>
+    </entry>
+    <entry>
+        <key>app_version</key>
+        <value>1.0.0</value>
+    </entry>
+    <entry>
+        <key>max_retry_attempts</key>
+        <value>3</value>
+    </entry>
+    <entry>
+        <key>cache_duration_hours</key>
+        <value>24</value>
+    </entry>
+    <entry>
+        <key>enable_debug_logging</key>
+        <value>false</value>
+    </entry>
+    
+    <!-- Dynamic Theme & UI -->
+    <entry>
+        <key>app_theme</key>
+        <value>light</value>
+    </entry>
+    <entry>
+        <key>primary_color</key>
+        <value>#2196F3</value>
+    </entry>
+    <entry>
+        <key>show_premium_features</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>enable_animations</key>
+        <value>true</value>
+    </entry>
+    
+    <!-- A/B Testing -->
+    <entry>
+        <key>button_style</key>
+        <value>rounded</value>
+    </entry>
+    <entry>
+        <key>onboarding_variant</key>
+        <value>variant_a</value>
+    </entry>
+    <entry>
+        <key>checkout_flow</key>
+        <value>single_page</value>
+    </entry>
+    
+    <!-- Emergency & Notifications -->
+    <entry>
+        <key>emergency_message</key>
+        <value>hhhhh</value>
+    </entry>
+    <entry>
+        <key>maintenance_mode</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>show_announcement</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>announcement_text</key>
+        <value>Check out our new features!</value>
+    </entry>
+    
+    <!-- Dynamic Content -->
+    <entry>
+        <key>featured_product</key>
+        <value>Smartphone Pro</value>
+    </entry>
+    <entry>
+        <key>discount_percentage</key>
+        <value>0</value>
+    </entry>
+    <entry>
+        <key>max_items_per_page</key>
+        <value>20</value>
+    </entry>
+    
+    <!-- Performance & Limits -->
+    <entry>
+        <key>api_timeout_seconds</key>
+        <value>30</value>
+    </entry>
+    <entry>
+        <key>max_file_upload_mb</key>
+        <value>10</value>
+    </entry>
+    <entry>
+        <key>enable_analytics</key>
+        <value>true</value>
+    </entry>
+</defaultsMap>
